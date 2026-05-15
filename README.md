@@ -90,8 +90,8 @@ The app will open at `http://localhost:3000`
 
 ## AI Usage
 
-Claude AI (Anthropic) was used to assist with:
-- Generating boilerplate code structure
-- Debugging configuration issues (MongoDB connection, package.json)
-- Explaining MERN concepts during development
-
+Understanding MERN stack concepts
+Debugging application issues
+Improving UI/UX design
+Implementing CRUD operations
+Explaining project structure and workflow during development
